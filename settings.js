@@ -1,11 +1,11 @@
 const settings = {
-  packname: 'Daniella',
+  packname: 'Nobody',
   author: '‎',
-  botName: "Professie",
+  botName: "Janice",
   botOwner: 'Professor', // Your name
-  ownerNumber: '233247889656', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '233209010914', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
-  commandMode: "public",
+  commandMode: "group",
   maxStoreMessages: 20, 
   storeWriteInterval: 10000,
   description: "This is a bot for managing group commands and automating tasks.",
