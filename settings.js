@@ -1,9 +1,9 @@
 const settings = {
-  packname: 'Lyna',
+  packname: 'LYMPHOCYTE',
   author: '‎',
-  botName: "Franklina",
+  botName: "EXPLOMB",
   botOwner: 'Professor', // Your name
-  ownerNumber: '233598215369', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '233553450663', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "group",
   maxStoreMessages: 20, 
